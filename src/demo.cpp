@@ -14,27 +14,25 @@ float getElapse(struct timeval *tv1,struct timeval *tv2)
     return t;
 }
 
-static void draw_objects(const cv::Mat& bgr, const std::vector<ObjInfo> obj_info, float ratio)
+/*
+ * Draw objects
+ * @bgr : cv::Mat (BGR)
+ * @obj_info : obj info
+ */
+static void draw_objects(const cv::Mat& bgr, const std::vector<ObjInfo> obj_info, float ratio_w, float ratio_h)
 {
-    static const char* class_names[] = {
-        "aeroplane", "bicycle", "bird", "boat",
-        "bottle", "bus", "car", "cat", "chair",
-        "cow", "diningtable", "dog", "horse",
-        "motorbike", "person", "pottedplant",
-        "sheep", "sofa", "train", "tvmonitor"};
-    // static const char* class_names[] = {"rgb_face"};
+    static const char* class_names[] = {"person", };
 
     cv::Mat image = bgr.clone();
 
     for (size_t i = 0; i < obj_info.size(); i++) {
-        if (obj_info[i].score > 0.35) {
+        if (obj_info[i].score > 0.25) {
 
             const ObjInfo& obj = obj_info[i];
 
-            fprintf(stderr, "%d = %.5f at %.2f %.2f %.2f x %.2f\n", obj.label, obj.score,
-                    obj.x1, obj.y1, obj.x2, obj.y2);
+            fprintf(stderr, "%d = %.5f at %.2f %.2f %.2f x %.2f\n", obj.label, obj.score, obj.x1, obj.y1, obj.x2, obj.y2);
 
-            cv::rectangle(image, cv::Point(obj.x1 /ratio, obj.y1 / ratio), cv::Point(obj.x2 /ratio, obj.y2 /ratio), cv::Scalar(255, 0, 0));
+            cv::rectangle(image, cv::Point(obj.x1 / ratio_w, obj.y1 / ratio_h), cv::Point(obj.x2 /ratio_w, obj.y2 / ratio_h), cv::Scalar(255, 0, 0));
 
             char text[256];
             sprintf(text, "%s %.1f%%", class_names[obj.label], obj.score * 100);
@@ -42,8 +40,8 @@ static void draw_objects(const cv::Mat& bgr, const std::vector<ObjInfo> obj_info
             int baseLine = 0;
             cv::Size label_size = cv::getTextSize(text, cv::FONT_HERSHEY_SIMPLEX, 0.5, 1, &baseLine);
 
-            int x = obj.x1 / ratio;
-            int y = obj.y1 / ratio - label_size.height - baseLine;
+            int x = obj.x1 / ratio_w;
+            int y = obj.y1 / ratio_h - label_size.height - baseLine;
             if (y < 0)
                 y = 0;
             if (x + label_size.width > image.cols)
@@ -57,7 +55,7 @@ static void draw_objects(const cv::Mat& bgr, const std::vector<ObjInfo> obj_info
         }
     }
 
-    cv::imwrite("result.jpg",image);
+    cv::imwrite("result.jpg", image);
 }
 
 
@@ -81,15 +79,25 @@ int main(int argc, char** argv) {
 
     int ori_w = image.cols;
     int ori_h = image.rows;
-    float ratio = 320 * 1.0 / ori_w;
-    if (ori_h > ori_w) ratio = 320 *1.0 / ori_h;
+    printf("ori_w, ori_h : %d %d \n", ori_w, ori_h);
+
+    float ratio = 512 * 1.0 / ori_w;
+    if (ori_h > ori_w) {
+        ratio = 512 * 1.0 / ori_h;
+    }
+    float ratio_w = 512 * 1.0 / ori_w;
+    float ratio_h = 512 * 1.0 / ori_h;
+
+    printf("ratio : %f \n", ratio);
+    printf("ori_w * ratio, ori_h * ratio : %lf %lf \n", ori_w * ratio, ori_h * ratio);
 
     cv::Mat img_resize;
-    cv::resize(image, img_resize, cv::Size(ori_w*ratio, ori_h*ratio), (0, 0), (0, 0), cv::INTER_LINEAR);
+    cv::resize(image, img_resize, cv::Size(512, 512), (0, 0), (0, 0), cv::INTER_LINEAR);
+    printf("img_resize.cols, img_resize.rows : %d %d \n", img_resize.cols, img_resize.rows);
     std::vector<ObjInfo> obj_info;
     ncnn::Mat inmat = ncnn::Mat::from_pixels(img_resize.data, ncnn::Mat::PIXEL_BGR, img_resize.cols, img_resize.rows);
     std::cout << "cols = " << img_resize.cols << ", " << "rows = " << img_resize.rows << std::endl;
-    for(int i = 0; i < 10; i++) {
+    for(int i = 0; i < 5; i++) {
         gettimeofday(&tv1, &tz1);
         centerobj.detect(inmat, obj_info, img_resize.cols, img_resize.rows);
         gettimeofday(&tv2, &tz2);
@@ -97,13 +105,12 @@ int main(int argc, char** argv) {
         std::cout << "time : " << tc << "ms" << std::endl;
     }
 
-    for (int i = 0; i < obj_info.size(); i++) {
-    	cv::rectangle(img_resize, cv::Point(obj_info[i].x1, obj_info[i].y1), cv::Point(obj_info[i].x2, obj_info[i].y2), cv::Scalar(0, 255, 0), 2);
+    if (0 < obj_info.size()) {
+        draw_objects(image, obj_info, ratio_w, ratio_h);
+        printf("draw_objects is done. \n");
+    } else {
+        printf("obj_info.size() is 0 \n");
     }
-
-    cv::imwrite("test1.jpg", img_resize);
-    draw_objects(image, obj_info, ratio);
-    cv::imwrite("test2.jpg", image);
 
     // cv::imshow("test.jpg", image);
     // cv::waitKey();

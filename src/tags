@@ -1,0 +1,973 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	416;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	419;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	422;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	429;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	433;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	437;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	440;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	443;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	448;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	451;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	454;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	459;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	462;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	465;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	468;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	404;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	410;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	418;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	422;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	425;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	428;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	433;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	436;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	439;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	file:
+Allocator	include/allocator.h	/^class Allocator$/;"	c	namespace:ncnn
+BORDER_CONSTANT	include/mat.h	/^    BORDER_CONSTANT = 0,$/;"	e	enum:ncnn::__anon3
+BORDER_REPLICATE	include/mat.h	/^    BORDER_REPLICATE = 1,$/;"	e	enum:ncnn::__anon3
+Blob	include/blob.h	/^class Blob$/;"	c	namespace:ncnn
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/mario\/Projects\/Gaotong\/centernet_mobilenetv2_ncnn-master\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/mario\/Projects\/Gaotong\/centernet_mobilenetv2_ncnn-master$/;"	m
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	236;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	264;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	270;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	191;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	258;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	267;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	272;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	203;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	259;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	273;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	246;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	274;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CV_32FC1	include/opencv.h	108;"	d
+CV_8UC1	include/opencv.h	105;"	d
+CV_8UC3	include/opencv.h	106;"	d
+CV_8UC4	include/opencv.h	107;"	d
+CV_LOAD_IMAGE_COLOR	include/opencv.h	254;"	d
+CV_LOAD_IMAGE_GRAYSCALE	include/opencv.h	253;"	d
+CXX_STD	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	534;"	d	file:
+CXX_STD	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	536;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	550;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	552;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	555;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	557;"	d	file:
+C_DIALECT	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	559;"	d	file:
+Centerobj	cpp/ncnn_centernet.cpp	/^Centerobj::Centerobj()$/;"	f	class:Centerobj
+Centerobj	cpp/ncnn_centernet.h	/^class Centerobj {$/;"	c
+Command	include/command.h	/^class Command$/;"	c	namespace:ncnn
+ConvBNReLU	mobilenetv2.py	/^class ConvBNReLU(nn.Sequential):$/;"	c
+CustomBit	include/layer_type.h	/^    CustomBit = (1<<8),$/;"	e	enum:ncnn::LayerType::__anon1
+DEC	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	472;"	d	file:
+DEC	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	file:
+DEFINE_LAYER_CREATOR	include/layer.h	139;"	d
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+Extractor	include/net.h	/^class Extractor$/;"	c	namespace:ncnn
+GpuInfo	include/gpu.h	/^class GpuInfo$/;"	c	namespace:ncnn
+HEX	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	483;"	d	file:
+HEX	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	file:
+IDAUp	mobilenetv2.py	/^class IDAUp(nn.Module):$/;"	c
+ID_VOID_MAIN	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+InvertedResidual	mobilenetv2.py	/^class InvertedResidual(nn.Module):$/;"	c
+Layer	include/layer.h	/^class Layer$/;"	c	namespace:ncnn
+LayerType	include/layer_type.h	/^namespace LayerType {$/;"	n	namespace:ncnn
+MALLOC_ALIGN	include/allocator.h	38;"	d
+Mat	include/mat.h	/^class Mat$/;"	c	namespace:ncnn
+Mat	include/mat.h	/^inline Mat::Mat()$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(const Mat& m)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, int _c, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, int _c, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, int _c, void* _data, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, int _c, void* _data, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, void* _data, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, int _h, void* _data, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, void* _data, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/mat.h	/^inline Mat::Mat(int _w, void* _data, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+Mat	include/opencv.h	/^    Mat() : data(0), refcount(0), rows(0), cols(0), c(0) {}$/;"	f	struct:cv::Mat
+Mat	include/opencv.h	/^    Mat(const Mat& m) : data(m.data), refcount(m.refcount)$/;"	f	struct:cv::Mat
+Mat	include/opencv.h	/^    Mat(int _rows, int _cols, int flags) : data(0), refcount(0)$/;"	f	struct:cv::Mat
+Mat	include/opencv.h	/^    Mat(int _rows, int _cols, int flags, void* _data) : data((unsigned char*)_data), refcount(0)$/;"	f	struct:cv::Mat
+Mat	include/opencv.h	/^struct Mat$/;"	s	namespace:cv
+MobileNetSeg	mobilenetv2.py	/^class MobileNetSeg(nn.Module):$/;"	c
+MobileNetUp	mobilenetv2.py	/^class MobileNetUp(nn.Module):$/;"	c
+MobileNetV2	mobilenetv2.py	/^class MobileNetV2(nn.Module):$/;"	c
+ModelBin	include/modelbin.h	/^class ModelBin$/;"	c	namespace:ncnn
+ModelBinFromMatArray	include/modelbin.h	/^class ModelBinFromMatArray : public ModelBin$/;"	c	namespace:ncnn
+ModelBinFromMemory	include/modelbin.h	/^class ModelBinFromMemory : public ModelBin$/;"	c	namespace:ncnn
+ModelBinFromStdio	include/modelbin.h	/^class ModelBinFromStdio : public ModelBin$/;"	c	namespace:ncnn
+Mutex	include/platform.h	/^    Mutex() { InitializeSRWLock(&srwlock); }$/;"	f	class:ncnn::Mutex
+Mutex	include/platform.h	/^class Mutex$/;"	c	namespace:ncnn
+MutexLockGuard	include/platform.h	/^    MutexLockGuard(Mutex& _mutex) : mutex(_mutex) { mutex.lock(); }$/;"	f	class:ncnn::MutexLockGuard
+MutexLockGuard	include/platform.h	/^class MutexLockGuard$/;"	c	namespace:ncnn
+NCNN_ALLOCATOR_H	include/allocator.h	16;"	d
+NCNN_AVX2	include/platform.h	26;"	d
+NCNN_BENCHMARK	include/platform.h	21;"	d
+NCNN_BENCHMARK_H	include/benchmark.h	16;"	d
+NCNN_BLOB_H	include/blob.h	16;"	d
+NCNN_COMMAND_H	include/command.h	16;"	d
+NCNN_CPU_H	include/cpu.h	16;"	d
+NCNN_GPU_H	include/gpu.h	16;"	d
+NCNN_LAYER_H	include/layer.h	16;"	d
+NCNN_LAYER_TYPE_H	include/layer_type.h	16;"	d
+NCNN_MAT_H	include/mat.h	16;"	d
+NCNN_MAX_PARAM_COUNT	include/paramdict.h	23;"	d
+NCNN_MODELBIN_H	include/modelbin.h	16;"	d
+NCNN_NET_H	include/net.h	16;"	d
+NCNN_OPENCV	include/platform.h	20;"	d
+NCNN_OPENCV_H	include/opencv.h	16;"	d
+NCNN_OPTION_H	include/option.h	16;"	d
+NCNN_PARAMDICT_H	include/paramdict.h	16;"	d
+NCNN_PIPELINE_H	include/pipeline.h	16;"	d
+NCNN_PIXEL	include/platform.h	22;"	d
+NCNN_PIXEL_ROTATE	include/platform.h	23;"	d
+NCNN_PLATFORM_H	include/platform.h	16;"	d
+NCNN_REQUANT	include/platform.h	25;"	d
+NCNN_STDIO	include/platform.h	18;"	d
+NCNN_STRING	include/platform.h	19;"	d
+NCNN_VULKAN	include/platform.h	24;"	d
+NCNN_XADD	include/allocator.h	/^static inline int NCNN_XADD(int* addr, int delta) { int tmp = *addr; *addr += delta; return tmp; }$/;"	f	namespace:ncnn
+NCNN_XADD	include/allocator.h	81;"	d
+NCNN_XADD	include/allocator.h	85;"	d
+NCNN_XADD	include/allocator.h	87;"	d
+NCNN_XADD	include/allocator.h	92;"	d
+NCNN_XADD	include/allocator.h	94;"	d
+NCNN_XADD	include/allocator.h	99;"	d
+NMS_MIN	cpp/ncnn_centernet.h	9;"	d
+NMS_UNION	cpp/ncnn_centernet.h	8;"	d
+Net	include/net.h	/^class Net$/;"	c	namespace:ncnn
+ObjInfo	cpp/ncnn_centernet.h	/^typedef struct ObjInfo {$/;"	s
+Option	include/option.h	/^class Option$/;"	c	namespace:ncnn
+PIXEL_BGR	include/mat.h	/^        PIXEL_BGR       = (1 << 1),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_BGR2GRAY	include/mat.h	/^        PIXEL_BGR2GRAY  = PIXEL_BGR | (PIXEL_GRAY << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_BGR2RGB	include/mat.h	/^        PIXEL_BGR2RGB   = PIXEL_BGR | (PIXEL_RGB << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_CONVERT_MASK	include/mat.h	/^        PIXEL_CONVERT_MASK = 0xffff0000,$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_CONVERT_SHIFT	include/mat.h	/^        PIXEL_CONVERT_SHIFT = 16,$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_FORMAT_MASK	include/mat.h	/^        PIXEL_FORMAT_MASK = 0x0000ffff,$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_GRAY	include/mat.h	/^        PIXEL_GRAY      = (1 << 2),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_GRAY2BGR	include/mat.h	/^        PIXEL_GRAY2BGR  = PIXEL_GRAY | (PIXEL_BGR << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_GRAY2RGB	include/mat.h	/^        PIXEL_GRAY2RGB  = PIXEL_GRAY | (PIXEL_RGB << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGB	include/mat.h	/^        PIXEL_RGB       = 1,$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGB2BGR	include/mat.h	/^        PIXEL_RGB2BGR   = PIXEL_RGB | (PIXEL_BGR << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGB2GRAY	include/mat.h	/^        PIXEL_RGB2GRAY  = PIXEL_RGB | (PIXEL_GRAY << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGBA	include/mat.h	/^        PIXEL_RGBA      = (1 << 3),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGBA2BGR	include/mat.h	/^        PIXEL_RGBA2BGR  = PIXEL_RGBA | (PIXEL_BGR << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGBA2GRAY	include/mat.h	/^        PIXEL_RGBA2GRAY = PIXEL_RGBA | (PIXEL_GRAY << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PIXEL_RGBA2RGB	include/mat.h	/^        PIXEL_RGBA2RGB  = PIXEL_RGBA | (PIXEL_RGB << PIXEL_CONVERT_SHIFT),$/;"	e	enum:ncnn::Mat::__anon2
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	319;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	322;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	325;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	328;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	331;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	337;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	340;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	343;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	346;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	349;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	352;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	355;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	358;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	361;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	364;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	367;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	370;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	373;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	376;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	379;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	382;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	389;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	392;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	395;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	398;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	401;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	383;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	386;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+ParamDict	include/paramdict.h	/^class ParamDict$/;"	c	namespace:ncnn
+Pipeline	include/pipeline.h	/^class Pipeline$/;"	c	namespace:ncnn
+Point	include/opencv.h	/^typedef Point_<int> Point;$/;"	t	namespace:cv
+Point2f	include/opencv.h	/^typedef Point_<float> Point2f;$/;"	t	namespace:cv
+Point_	include/opencv.h	/^    Point_() : x(0), y(0) {}$/;"	f	struct:cv::Point_
+Point_	include/opencv.h	/^    Point_(_Tp _x, _Tp _y) : x(_x), y(_y) {}$/;"	f	struct:cv::Point_
+Point_	include/opencv.h	/^struct Point_$/;"	s	namespace:cv
+PoolAllocator	include/allocator.h	/^class PoolAllocator : public Allocator$/;"	c	namespace:ncnn
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+Rect	include/opencv.h	/^typedef Rect_<int> Rect;$/;"	t	namespace:cv
+Rect2f	include/opencv.h	/^typedef Rect_<float> Rect2f;$/;"	t	namespace:cv
+Rect_	include/opencv.h	/^    Rect_() : x(0), y(0), width(0), height(0) {}$/;"	f	struct:cv::Rect_
+Rect_	include/opencv.h	/^    Rect_(_Tp _x, _Tp _y, _Tp _w, _Tp _h) : x(_x), y(_y), width(_w), height(_h) {}$/;"	f	struct:cv::Rect_
+Rect_	include/opencv.h	/^struct Rect_$/;"	s	namespace:cv
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	309;"	d	file:
+STRINGIFY	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+Size	include/opencv.h	/^    Size() : width(0), height(0) {}$/;"	f	struct:cv::Size
+Size	include/opencv.h	/^    Size(int _w, int _h) : width(_w), height(_h) {}$/;"	f	struct:cv::Size
+Size	include/opencv.h	/^struct Size$/;"	s	namespace:cv
+UnlockedPoolAllocator	include/allocator.h	/^class UnlockedPoolAllocator : public Allocator$/;"	c	namespace:ncnn
+VkAllocator	include/allocator.h	/^class VkAllocator$/;"	c	namespace:ncnn
+VkBlobBufferAllocator	include/allocator.h	/^class VkBlobBufferAllocator : public VkUnlockedBlobBufferAllocator$/;"	c	namespace:ncnn
+VkBufferMemory	include/allocator.h	/^class VkBufferMemory$/;"	c	namespace:ncnn
+VkCompute	include/command.h	/^class VkCompute : public Command$/;"	c	namespace:ncnn
+VkMat	include/mat.h	/^class VkMat$/;"	c	namespace:ncnn
+VkMat	include/mat.h	/^inline VkMat::VkMat()$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(const VkMat& m)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, VkBufferMemory* _data, size_t _offset, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, VkBufferMemory* _data, size_t _offset, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, VkBufferMemory* _data, size_t _offset, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, VkBufferMemory* _data, size_t _offset, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, int _c, VkBufferMemory* _data, size_t _offset, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, int _c, VkBufferMemory* _data, size_t _offset, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, int _c, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, int _c, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, int _h, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkMat	include/mat.h	/^inline VkMat::VkMat(int _w, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+VkStagingBufferAllocator	include/allocator.h	/^class VkStagingBufferAllocator : public VkUnlockedStagingBufferAllocator$/;"	c	namespace:ncnn
+VkTransfer	include/command.h	/^class VkTransfer : public Command$/;"	c	namespace:ncnn
+VkUnlockedBlobBufferAllocator	include/allocator.h	/^class VkUnlockedBlobBufferAllocator : public VkAllocator$/;"	c	namespace:ncnn
+VkUnlockedStagingBufferAllocator	include/allocator.h	/^class VkUnlockedStagingBufferAllocator : public VkAllocator$/;"	c	namespace:ncnn
+VkWeightBufferAllocator	include/allocator.h	/^class VkWeightBufferAllocator : public VkAllocator$/;"	c	namespace:ncnn
+VkWeightStagingBufferAllocator	include/allocator.h	/^class VkWeightStagingBufferAllocator : public VkAllocator$/;"	c	namespace:ncnn
+VulkanDevice	include/gpu.h	/^class VulkanDevice$/;"	c	namespace:ncnn
+WIN32_LEAN_AND_MEAN	include/allocator.h	19;"	d
+WIN32_LEAN_AND_MEAN	include/platform.h	29;"	d
+__all__	mobilenetv2.py	/^__all__ = ['MobileNetV2']$/;"	v
+__init__	mobilenetv2.py	/^    def __init__(self, base_name, heads, head_conv=24, pretrained = True):$/;"	m	class:MobileNetSeg
+__init__	mobilenetv2.py	/^    def __init__(self, channels, out_dim = 24):$/;"	m	class:MobileNetUp
+__init__	mobilenetv2.py	/^    def __init__(self, in_planes, out_planes, kernel_size=3, stride=1, groups=1):$/;"	m	class:ConvBNReLU
+__init__	mobilenetv2.py	/^    def __init__(self, inp, oup, stride, expand_ratio):$/;"	m	class:InvertedResidual
+__init__	mobilenetv2.py	/^    def __init__(self, out_dim, channel):$/;"	m	class:IDAUp
+__init__	mobilenetv2.py	/^    def __init__(self,width_mult=1.0,round_nearest=8,):$/;"	m	class:MobileNetV2
+_make_divisible	mobilenetv2.py	/^def _make_divisible(v, divisor, min_value=None):$/;"	f
+_model_factory	model.py	/^_model_factory = {$/;"	v
+addref	include/mat.h	/^inline void Mat::addref()$/;"	f	class:ncnn::Mat
+addref	include/mat.h	/^inline void VkMat::addref()$/;"	f	class:ncnn::VkMat
+alignPtr	include/allocator.h	/^template<typename _Tp> static inline _Tp* alignPtr(_Tp* ptr, int n=(int)sizeof(_Tp))$/;"	f	namespace:ncnn
+alignSize	include/allocator.h	/^static inline size_t alignSize(size_t sz, int n)$/;"	f	namespace:ncnn
+allocator	include/mat.h	/^    Allocator* allocator;$/;"	m	class:ncnn::Mat
+allocator	include/mat.h	/^    VkAllocator* allocator;$/;"	m	class:ncnn::VkMat
+api_version	include/gpu.h	/^    uint32_t api_version;$/;"	m	class:ncnn::GpuInfo
+area	cpp/ncnn_centernet.h	/^	float area;$/;"	m	struct:ObjInfo
+area	include/opencv.h	/^    _Tp area() const$/;"	f	struct:cv::Rect_
+bind_descriptorset	include/command.h	/^        struct { VkPipelineLayout pipeline_layout; VkDescriptorSet descriptorset; } bind_descriptorset;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon10
+bind_pipeline	include/command.h	/^        struct { VkPipeline pipeline; } bind_pipeline;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon9
+binfp	include/modelbin.h	/^    FILE* binfp;$/;"	m	class:ncnn::ModelBinFromStdio
+blob_allocator	include/option.h	/^    Allocator* blob_allocator;$/;"	m	class:ncnn::Option
+blob_buffer_allocator	include/gpu.h	/^    VkAllocator* blob_buffer_allocator;$/;"	m	class:ncnn::VulkanDevice
+blob_mats	include/net.h	/^    std::vector<Mat> blob_mats;$/;"	m	class:ncnn::Extractor
+blob_mats_gpu	include/net.h	/^    std::vector<VkMat> blob_mats_gpu;$/;"	m	class:ncnn::Extractor
+blob_vkallocator	include/option.h	/^    VkAllocator* blob_vkallocator;$/;"	m	class:ncnn::Option
+blobs	include/net.h	/^    std::vector<Blob> blobs;$/;"	m	class:ncnn::Net
+block_size	include/allocator.h	/^    size_t block_size;$/;"	m	class:ncnn::VkUnlockedBlobBufferAllocator
+block_size	include/allocator.h	/^    size_t block_size;$/;"	m	class:ncnn::VkWeightBufferAllocator
+bottoms	include/layer.h	/^    std::vector<int> bottoms;$/;"	m	class:ncnn::Layer
+budgets	include/allocator.h	/^    std::list< std::pair<size_t, void*> > budgets;$/;"	m	class:ncnn::PoolAllocator
+budgets	include/allocator.h	/^    std::list< std::pair<size_t, void*> > budgets;$/;"	m	class:ncnn::UnlockedPoolAllocator
+budgets	include/allocator.h	/^    std::list<VkBufferMemory*> budgets;$/;"	m	class:ncnn::VkUnlockedStagingBufferAllocator
+budgets	include/allocator.h	/^    std::vector< std::list< std::pair<size_t, size_t> > > budgets;$/;"	m	class:ncnn::VkUnlockedBlobBufferAllocator
+budgets_lock	include/allocator.h	/^    Mutex budgets_lock;$/;"	m	class:ncnn::PoolAllocator
+budgets_lock	include/allocator.h	/^    Mutex budgets_lock;$/;"	m	class:ncnn::VkBlobBufferAllocator
+budgets_lock	include/allocator.h	/^    Mutex budgets_lock;$/;"	m	class:ncnn::VkStagingBufferAllocator
+buffer	include/allocator.h	/^    VkBuffer buffer;$/;"	m	class:ncnn::VkBufferMemory
+buffer	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_compute_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon15
+buffer	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_transfer_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon14
+buffer	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_compute_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon13
+buffer	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_transfer_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon16
+buffer	include/mat.h	/^inline VkBuffer VkMat::buffer() const$/;"	f	class:ncnn::VkMat
+buffer_block_free_spaces	include/allocator.h	/^    std::vector<size_t> buffer_block_free_spaces;$/;"	m	class:ncnn::VkWeightBufferAllocator
+buffer_blocks	include/allocator.h	/^    std::vector<VkBufferMemory*> buffer_blocks;$/;"	m	class:ncnn::VkUnlockedBlobBufferAllocator
+buffer_blocks	include/allocator.h	/^    std::vector<VkBufferMemory*> buffer_blocks;$/;"	m	class:ncnn::VkWeightBufferAllocator
+buffer_offset	include/mat.h	/^inline size_t VkMat::buffer_offset() const$/;"	f	class:ncnn::VkMat
+buffer_offset_alignment	include/allocator.h	/^    size_t buffer_offset_alignment;$/;"	m	class:ncnn::VkUnlockedBlobBufferAllocator
+buffer_offset_alignment	include/allocator.h	/^    size_t buffer_offset_alignment;$/;"	m	class:ncnn::VkWeightBufferAllocator
+buffer_offset_alignment	include/command.h	/^    size_t buffer_offset_alignment;$/;"	m	class:ncnn::VkTransfer
+buffer_offset_alignment	include/gpu.h	/^    size_t buffer_offset_alignment;$/;"	m	class:ncnn::GpuInfo
+c	include/mat.h	/^    int c;$/;"	m	class:ncnn::Mat
+c	include/mat.h	/^    int c;$/;"	m	class:ncnn::VkMat
+c	include/opencv.h	/^    int c;$/;"	m	struct:cv::Mat
+capacity	include/allocator.h	/^    size_t capacity;$/;"	m	class:ncnn::VkBufferMemory
+cast_float16_to_float32	include/net.h	/^    ncnn::Layer* cast_float16_to_float32;$/;"	m	class:ncnn::Net
+cast_float32_to_float16	include/net.h	/^    ncnn::Layer* cast_float32_to_float16;$/;"	m	class:ncnn::Net
+channel	include/mat.h	/^inline Mat Mat::channel(int _c)$/;"	f	class:ncnn::Mat
+channel	include/mat.h	/^inline VkMat VkMat::channel(int _c)$/;"	f	class:ncnn::VkMat
+channel	include/mat.h	/^inline const Mat Mat::channel(int _c) const$/;"	f	class:ncnn::Mat
+channel	include/mat.h	/^inline const VkMat VkMat::channel(int _c) const$/;"	f	class:ncnn::VkMat
+channel_range	include/mat.h	/^inline Mat Mat::channel_range(int _c, int channels)$/;"	f	class:ncnn::Mat
+channel_range	include/mat.h	/^inline VkMat VkMat::channel_range(int _c, int channels)$/;"	f	class:ncnn::VkMat
+channel_range	include/mat.h	/^inline const Mat Mat::channel_range(int _c, int channels) const$/;"	f	class:ncnn::Mat
+channel_range	include/mat.h	/^inline const VkMat VkMat::channel_range(int _c, int channels) const$/;"	f	class:ncnn::VkMat
+channels	include/opencv.h	/^    int channels() const { return c; }$/;"	f	struct:cv::Mat
+clear	include/allocator.h	/^    virtual void clear() {}$/;"	f	class:ncnn::VkAllocator
+clone	include/mat.h	/^inline Mat Mat::clone(Allocator* allocator) const$/;"	f	class:ncnn::Mat
+clone	include/opencv.h	/^    Mat clone() const$/;"	f	struct:cv::Mat
+cols	include/opencv.h	/^    int cols;$/;"	m	struct:cv::Mat
+command_buffer	include/command.h	/^    VkCommandBuffer command_buffer;$/;"	m	class:ncnn::Command
+command_pool	include/command.h	/^    VkCommandPool command_pool;$/;"	m	class:ncnn::Command
+compute_compute_barrier	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_compute_barrier;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon15
+compute_queue_count	include/gpu.h	/^    uint32_t compute_queue_count;$/;"	m	class:ncnn::GpuInfo
+compute_queue_family_index	include/gpu.h	/^    uint32_t compute_queue_family_index;$/;"	m	class:ncnn::GpuInfo
+compute_queues	include/gpu.h	/^    mutable std::vector<VkQueue> compute_queues;$/;"	m	class:ncnn::VulkanDevice
+compute_transfer_barrier	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_transfer_barrier;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon14
+const	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+constants	include/command.h	/^        std::vector<vk_constant_type> constants;$/;"	m	struct:ncnn::VkCompute::record_type
+consumers	include/blob.h	/^    std::vector<int> consumers;$/;"	m	class:ncnn::Blob
+copy	include/command.h	/^        struct { VkBuffer src; size_t src_offset; VkBuffer dst; size_t dst_offset; size_t size; } copy;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon7
+copy_regions	include/command.h	/^        struct { VkBuffer src; VkBuffer dst; } copy_regions;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon8
+create	include/mat.h	/^inline void Mat::create(int _w, int _h, int _c, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create	include/mat.h	/^inline void Mat::create(int _w, int _h, int _c, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create	include/mat.h	/^inline void Mat::create(int _w, int _h, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create	include/mat.h	/^inline void Mat::create(int _w, int _h, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create	include/mat.h	/^inline void Mat::create(int _w, size_t _elemsize, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create	include/mat.h	/^inline void Mat::create(int _w, size_t _elemsize, int _packing, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create	include/mat.h	/^inline void VkMat::create(int _w, int _h, int _c, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create	include/mat.h	/^inline void VkMat::create(int _w, int _h, int _c, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create	include/mat.h	/^inline void VkMat::create(int _w, int _h, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create	include/mat.h	/^inline void VkMat::create(int _w, int _h, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create	include/mat.h	/^inline void VkMat::create(int _w, size_t _elemsize, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create	include/mat.h	/^inline void VkMat::create(int _w, size_t _elemsize, int _packing, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create	include/opencv.h	/^    void create(int _rows, int _cols, int flags)$/;"	f	struct:cv::Mat
+create_like	include/mat.h	/^inline void Mat::create_like(const Mat& m, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create_like	include/mat.h	/^inline void Mat::create_like(const VkMat& m, Allocator* _allocator)$/;"	f	class:ncnn::Mat
+create_like	include/mat.h	/^inline void VkMat::create_like(const Mat& m, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create_like	include/mat.h	/^inline void VkMat::create_like(const VkMat& m, VkAllocator* _allocator, VkAllocator* _staging_allocator)$/;"	f	class:ncnn::VkMat
+create_model	model.py	/^def create_model(arch, heads, head_conv):$/;"	f
+creator	include/layer.h	/^    layer_creator_func creator;$/;"	m	struct:ncnn::layer_registry_entry
+cstep	include/mat.h	/^    size_t cstep;$/;"	m	class:ncnn::Mat
+cstep	include/mat.h	/^    size_t cstep;$/;"	m	class:ncnn::VkMat
+custom_layer_registry	include/net.h	/^    std::vector<layer_registry_entry> custom_layer_registry;$/;"	m	class:ncnn::Net
+cv	include/opencv.h	/^namespace cv$/;"	n
+d_h	cpp/ncnn_centernet.h	/^	int d_h;$/;"	m	class:Centerobj
+d_scale_h	cpp/ncnn_centernet.h	/^	float d_scale_h;$/;"	m	class:Centerobj
+d_scale_w	cpp/ncnn_centernet.h	/^	float d_scale_w;$/;"	m	class:Centerobj
+d_w	cpp/ncnn_centernet.h	/^	int d_w;$/;"	m	class:Centerobj
+data	include/mat.h	/^    VkBufferMemory* data;$/;"	m	class:ncnn::VkMat
+data	include/mat.h	/^    void* data;$/;"	m	class:ncnn::Mat
+data	include/opencv.h	/^    unsigned char* data;$/;"	m	struct:cv::Mat
+decode	cpp/ncnn_centernet.cpp	/^void Centerobj::decode(ncnn::Mat & heatmap, ncnn::Mat & scale, ncnn::Mat & offset, std::vector<ObjInfo>& objs, float scoreThresh, float nmsThresh)$/;"	f	class:Centerobj
+dedicated_buffer_blocks	include/allocator.h	/^    std::vector<VkBufferMemory*> dedicated_buffer_blocks;$/;"	m	class:ncnn::VkWeightBufferAllocator
+delayed_records	include/command.h	/^    std::vector<record_type> delayed_records;$/;"	m	class:ncnn::VkCompute
+delayed_records	include/command.h	/^    std::vector<record_type> delayed_records;$/;"	m	class:ncnn::VkTransfer
+descriptor_pools	include/command.h	/^    std::vector<VkDescriptorPool> descriptor_pools;$/;"	m	class:ncnn::VkCompute
+descriptor_update_template	include/pipeline.h	/^    VkDescriptorUpdateTemplateKHR descriptor_update_template;$/;"	m	class:ncnn::Pipeline
+descriptorset	include/command.h	/^        struct { VkPipelineLayout pipeline_layout; VkDescriptorSet descriptorset; } bind_descriptorset;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon10
+descriptorset_layout	include/pipeline.h	/^    VkDescriptorSetLayout descriptorset_layout;$/;"	m	class:ncnn::Pipeline
+descriptorsets	include/command.h	/^    std::vector<VkDescriptorSet> descriptorsets;$/;"	m	class:ncnn::VkCompute
+detect	cpp/ncnn_centernet.cpp	/^int Centerobj::detect(ncnn::Mat & inblob, std::vector<ObjInfo>& objs, int resized_w, int resized_h, float scoreThresh, float nmsThresh)$/;"	f	class:Centerobj
+device	include/gpu.h	/^    VkDevice device;$/;"	m	class:ncnn::VulkanDevice
+device_id	include/gpu.h	/^    uint32_t device_id;$/;"	m	class:ncnn::GpuInfo
+device_local_memory_index	include/gpu.h	/^    uint32_t device_local_memory_index;$/;"	m	class:ncnn::GpuInfo
+dims	include/mat.h	/^    int dims;$/;"	m	class:ncnn::Mat
+dims	include/mat.h	/^    int dims;$/;"	m	class:ncnn::VkMat
+discard_staging_buffer	include/mat.h	/^inline void VkMat::discard_staging_buffer()$/;"	f	class:ncnn::VkMat
+dispatch	include/command.h	/^        struct { uint32_t group_count_xyz[3]; } dispatch;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon12
+download	include/mat.h	/^inline void VkMat::download(Mat& m) const$/;"	f	class:ncnn::VkMat
+draw_objects	demo.cpp	/^static void draw_objects(const cv::Mat& bgr, const std::vector<ObjInfo> obj_info, float ratio)$/;"	f	file:
+driver_version	include/gpu.h	/^    uint32_t driver_version;$/;"	m	class:ncnn::GpuInfo
+dst	include/command.h	/^        struct { VkBuffer src; VkBuffer dst; } copy_regions;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon8
+dst	include/command.h	/^        struct { VkBuffer src; size_t src_offset; VkBuffer dst; size_t dst_offset; size_t size; } copy;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon7
+dst_offset	include/command.h	/^        struct { VkBuffer src; size_t src_offset; VkBuffer dst; size_t dst_offset; size_t size; } copy;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon7
+dynamicScale	cpp/ncnn_centernet.cpp	/^void Centerobj::dynamicScale(float in_w, float in_h)$/;"	f	class:Centerobj
+elemsize	include/mat.h	/^    size_t elemsize;$/;"	m	class:ncnn::Mat
+elemsize	include/mat.h	/^    size_t elemsize;$/;"	m	class:ncnn::VkMat
+empty	include/mat.h	/^inline bool Mat::empty() const$/;"	f	class:ncnn::Mat
+empty	include/mat.h	/^inline bool VkMat::empty() const$/;"	f	class:ncnn::VkMat
+empty	include/opencv.h	/^    bool empty() const { return data == 0 || total() == 0; }$/;"	f	struct:cv::Mat
+f	include/mat.h	/^union vk_constant_type { int i; float f; };$/;"	m	union:ncnn::vk_constant_type
+f	include/mat.h	/^union vk_specialization_type { int i; float f; uint32_t u32; };$/;"	m	union:ncnn::vk_specialization_type
+f	include/paramdict.h	/^        union { int i; float f; };$/;"	m	union:ncnn::ParamDict::__anon4::__anon5
+fastFree	include/allocator.h	/^static inline void fastFree(void* ptr)$/;"	f	namespace:ncnn
+fastMalloc	include/allocator.h	/^static inline void* fastMalloc(size_t size)$/;"	f	namespace:ncnn
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+fence	include/command.h	/^    VkFence fence;$/;"	m	class:ncnn::Command
+fill	include/mat.h	/^inline void Mat::fill(T _v)$/;"	f	class:ncnn::Mat
+fill	include/mat.h	/^inline void Mat::fill(float _v)$/;"	f	class:ncnn::Mat
+fill	include/mat.h	/^inline void Mat::fill(int _v)$/;"	f	class:ncnn::Mat
+fill_fc_weights	mobilenetv2.py	/^def fill_fc_weights(layers):$/;"	f
+fill_up_weights	mobilenetv2.py	/^def fill_up_weights(up):$/;"	f
+forward	mobilenetv2.py	/^    def forward(self, layers):$/;"	m	class:IDAUp
+forward	mobilenetv2.py	/^    def forward(self, layers):$/;"	m	class:MobileNetUp
+forward	mobilenetv2.py	/^    def forward(self, x):$/;"	m	class:InvertedResidual
+forward	mobilenetv2.py	/^    def forward(self, x):$/;"	m	class:MobileNetSeg
+forward	mobilenetv2.py	/^    def forward(self, x):$/;"	m	class:MobileNetV2
+genIds	cpp/ncnn_centernet.cpp	/^void Centerobj::genIds(float * heatmap, int h, int w, int c, float thresh, std::vector<float>& ids)$/;"	f	class:Centerobj
+getElapse	demo.cpp	/^float getElapse(struct timeval *tv1,struct timeval *tv2)$/;"	f
+get_mobile_net	mobilenetv2.py	/^def get_mobile_net(num_layers, heads, head_conv=24):$/;"	f
+group_count_xyz	include/command.h	/^        struct { uint32_t group_count_xyz[3]; } dispatch;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon12
+h	include/mat.h	/^    int h;$/;"	m	class:ncnn::Mat
+h	include/mat.h	/^    int h;$/;"	m	class:ncnn::VkMat
+height	include/opencv.h	/^    _Tp height;$/;"	m	struct:cv::Rect_
+height	include/opencv.h	/^    int height;$/;"	m	struct:cv::Size
+host_visible_memory_index	include/gpu.h	/^    uint32_t host_visible_memory_index;$/;"	m	class:ncnn::GpuInfo
+i	include/mat.h	/^union vk_constant_type { int i; float f; };$/;"	m	union:ncnn::vk_constant_type
+i	include/mat.h	/^union vk_specialization_type { int i; float f; uint32_t u32; };$/;"	m	union:ncnn::vk_specialization_type
+i	include/paramdict.h	/^        union { int i; float f; };$/;"	m	union:ncnn::ParamDict::__anon4::__anon5
+image_h	cpp/ncnn_centernet.h	/^	int image_h;$/;"	m	class:Centerobj
+image_w	cpp/ncnn_centernet.h	/^	int image_w;$/;"	m	class:Centerobj
+info	include/gpu.h	/^    const GpuInfo& info;$/;"	m	class:ncnn::VulkanDevice
+info_arch	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+init	cpp/ncnn_centernet.cpp	/^int Centerobj::init(std::string model_path)$/;"	f	class:Centerobj
+label	cpp/ncnn_centernet.h	/^	int label;$/;"	m	struct:ObjInfo
+layer_creator_func	include/layer.h	/^typedef Layer* (*layer_creator_func)();$/;"	t	namespace:ncnn
+layer_registry_entry	include/layer.h	/^struct layer_registry_entry$/;"	s	namespace:ncnn
+layers	include/net.h	/^    std::vector<Layer*> layers;$/;"	m	class:ncnn::Net
+lightmode	include/option.h	/^    bool lightmode;$/;"	m	class:ncnn::Option
+load_model	mobilenetv2.py	/^def load_model(model,state_dict):$/;"	f
+load_model	model.py	/^def load_model(model, model_path, optimizer=None, resume=False, $/;"	f
+loaded	include/paramdict.h	/^        int loaded;$/;"	m	struct:ncnn::ParamDict::__anon4
+local_shader_module	include/pipeline.h	/^    VkShaderModule local_shader_module;$/;"	m	class:ncnn::Pipeline
+local_size_x	include/pipeline.h	/^    uint32_t local_size_x;$/;"	m	class:ncnn::Pipeline
+local_size_y	include/pipeline.h	/^    uint32_t local_size_y;$/;"	m	class:ncnn::Pipeline
+local_size_z	include/pipeline.h	/^    uint32_t local_size_z;$/;"	m	class:ncnn::Pipeline
+lock	include/platform.h	/^    void lock() { AcquireSRWLockExclusive(&srwlock); }$/;"	f	class:ncnn::Mutex
+main	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	demo.cpp	/^int main(int argc, char** argv) {$/;"	f
+mappable	include/allocator.h	/^    bool mappable;$/;"	m	class:ncnn::VkAllocator
+mapped	include/mat.h	/^inline Mat VkMat::mapped() const$/;"	f	class:ncnn::VkMat
+mapped_ptr	include/allocator.h	/^    void* mapped_ptr;$/;"	m	class:ncnn::VkBufferMemory
+mapped_ptr	include/mat.h	/^inline void* VkMat::mapped_ptr() const$/;"	f	class:ncnn::VkMat
+mat	include/command.h	/^        Mat mat;$/;"	m	struct:ncnn::VkTransfer::record_type
+max_shared_memory_size	include/gpu.h	/^    uint32_t max_shared_memory_size;$/;"	m	class:ncnn::GpuInfo
+max_workgroup_count	include/gpu.h	/^    uint32_t max_workgroup_count[3];$/;"	m	class:ncnn::GpuInfo
+max_workgroup_invocations	include/gpu.h	/^    uint32_t max_workgroup_invocations;$/;"	m	class:ncnn::GpuInfo
+max_workgroup_size	include/gpu.h	/^    uint32_t max_workgroup_size[3];$/;"	m	class:ncnn::GpuInfo
+mem	include/modelbin.h	/^    const unsigned char*& mem;$/;"	m	class:ncnn::ModelBinFromMemory
+memory	include/allocator.h	/^    VkDeviceMemory memory;$/;"	m	class:ncnn::VkBufferMemory
+memory_map_alignment	include/gpu.h	/^    size_t memory_map_alignment;$/;"	m	class:ncnn::GpuInfo
+memory_type_index	include/allocator.h	/^    uint32_t memory_type_index;$/;"	m	class:ncnn::VkUnlockedStagingBufferAllocator
+memory_type_index	include/allocator.h	/^    uint32_t memory_type_index;$/;"	m	class:ncnn::VkWeightStagingBufferAllocator
+mobilenetv2_10	mobilenetv2.py	/^def mobilenetv2_10(pretrained=True, **kwargs):$/;"	f
+mobilenetv2_5	mobilenetv2.py	/^def mobilenetv2_5(pretrained=False, **kwargs):$/;"	f
+model_urls	mobilenetv2.py	/^model_urls = {$/;"	v
+mutex	include/platform.h	/^    Mutex& mutex;$/;"	m	class:ncnn::MutexLockGuard
+name	include/blob.h	/^    std::string name;$/;"	m	class:ncnn::Blob
+name	include/layer.h	/^    const char* name;$/;"	m	struct:ncnn::layer_registry_entry
+name	include/layer.h	/^    std::string name;$/;"	m	class:ncnn::Layer
+ncnn	include/allocator.h	/^namespace ncnn {$/;"	n
+ncnn	include/benchmark.h	/^namespace ncnn {$/;"	n
+ncnn	include/blob.h	/^namespace ncnn {$/;"	n
+ncnn	include/command.h	/^namespace ncnn {$/;"	n
+ncnn	include/cpu.h	/^namespace ncnn {$/;"	n
+ncnn	include/gpu.h	/^namespace ncnn {$/;"	n
+ncnn	include/layer.h	/^namespace ncnn {$/;"	n
+ncnn	include/layer_type.h	/^namespace ncnn {$/;"	n
+ncnn	include/mat.h	/^namespace ncnn {$/;"	n
+ncnn	include/modelbin.h	/^namespace ncnn {$/;"	n
+ncnn	include/net.h	/^namespace ncnn {$/;"	n
+ncnn	include/option.h	/^namespace ncnn {$/;"	n
+ncnn	include/paramdict.h	/^namespace ncnn {$/;"	n
+ncnn	include/pipeline.h	/^namespace ncnn {$/;"	n
+ncnn	include/platform.h	/^namespace ncnn {$/;"	n
+net	cpp/ncnn_centernet.h	/^	ncnn::Net net;$/;"	m	class:Centerobj
+net	include/net.h	/^    const Net* net;$/;"	m	class:ncnn::Extractor
+nms	cpp/ncnn_centernet.cpp	/^void Centerobj::nms(std::vector<ObjInfo>& input, std::vector<ObjInfo>& output, float nmsthreshold,int type)$/;"	f	class:Centerobj
+num_threads	include/option.h	/^    int num_threads;$/;"	m	class:ncnn::Option
+offset	include/allocator.h	/^    size_t offset;$/;"	m	class:ncnn::VkBufferMemory
+offset	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_compute_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon15
+offset	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_transfer_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon14
+offset	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_compute_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon13
+offset	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_transfer_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon16
+offset	include/mat.h	/^    size_t offset;$/;"	m	class:ncnn::VkMat
+one_blob_only	include/layer.h	/^    bool one_blob_only;$/;"	m	class:ncnn::Layer
+operator &	include/opencv.h	/^template<typename _Tp> static inline Rect_<_Tp> operator & (const Rect_<_Tp>& a, const Rect_<_Tp>& b)$/;"	f	namespace:cv
+operator &=	include/opencv.h	/^template<typename _Tp> static inline Rect_<_Tp>& operator &= ( Rect_<_Tp>& a, const Rect_<_Tp>& b )$/;"	f	namespace:cv
+operator ()	include/opencv.h	/^    Mat operator()( const Rect& roi ) const$/;"	f	struct:cv::Mat
+operator =	include/mat.h	/^inline Mat& Mat::operator=(const Mat& m)$/;"	f	class:ncnn::Mat
+operator =	include/mat.h	/^inline VkMat& VkMat::operator=(const VkMat& m)$/;"	f	class:ncnn::VkMat
+operator =	include/opencv.h	/^    Mat& operator=(const Mat& m)$/;"	f	struct:cv::Mat
+operator T*	include/mat.h	/^inline Mat::operator T*()$/;"	f	class:ncnn::Mat
+operator []	include/mat.h	/^inline const float& Mat::operator[](int i) const$/;"	f	class:ncnn::Mat
+operator []	include/mat.h	/^inline float& Mat::operator[](int i)$/;"	f	class:ncnn::Mat
+operator const T*	include/mat.h	/^inline Mat::operator const T*() const$/;"	f	class:ncnn::Mat
+operator |	include/opencv.h	/^template<typename _Tp> static inline Rect_<_Tp> operator | (const Rect_<_Tp>& a, const Rect_<_Tp>& b)$/;"	f	namespace:cv
+operator |=	include/opencv.h	/^template<typename _Tp> static inline Rect_<_Tp>& operator |= ( Rect_<_Tp>& a, const Rect_<_Tp>& b )$/;"	f	namespace:cv
+opt	include/net.h	/^    Option opt;$/;"	m	class:ncnn::Extractor
+opt	include/net.h	/^    Option opt;$/;"	m	class:ncnn::Net
+packing	include/mat.h	/^    int packing;$/;"	m	class:ncnn::Mat
+packing	include/mat.h	/^    int packing;$/;"	m	class:ncnn::VkMat
+packing_pack1	include/net.h	/^    ncnn::Layer* packing_pack1;$/;"	m	class:ncnn::Net
+packing_pack4	include/net.h	/^    ncnn::Layer* packing_pack4;$/;"	m	class:ncnn::Net
+params	include/paramdict.h	/^    } params[NCNN_MAX_PARAM_COUNT];$/;"	m	class:ncnn::ParamDict	typeref:struct:ncnn::ParamDict::__anon4
+payouts	include/allocator.h	/^    std::list< std::pair<size_t, void*> > payouts;$/;"	m	class:ncnn::PoolAllocator
+payouts	include/allocator.h	/^    std::list< std::pair<size_t, void*> > payouts;$/;"	m	class:ncnn::UnlockedPoolAllocator
+payouts_lock	include/allocator.h	/^    Mutex payouts_lock;$/;"	m	class:ncnn::PoolAllocator
+physical_device	include/gpu.h	/^    VkPhysicalDevice physical_device;$/;"	m	class:ncnn::GpuInfo
+pipeline	include/command.h	/^        struct { VkPipeline pipeline; } bind_pipeline;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon9
+pipeline	include/pipeline.h	/^    VkPipeline pipeline;$/;"	m	class:ncnn::Pipeline
+pipeline_cache_uuid	include/gpu.h	/^    uint8_t pipeline_cache_uuid[VK_UUID_SIZE];$/;"	m	class:ncnn::GpuInfo
+pipeline_layout	include/command.h	/^        struct { VkPipelineLayout pipeline_layout; VkDescriptorSet descriptorset; } bind_descriptorset;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon10
+pipeline_layout	include/command.h	/^        struct { VkPipelineLayout pipeline_layout; } push_constants;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon11
+pipeline_layout	include/pipeline.h	/^    VkPipelineLayout pipeline_layout;$/;"	m	class:ncnn::Pipeline
+prepare_staging_buffer	include/mat.h	/^inline void VkMat::prepare_staging_buffer()$/;"	f	class:ncnn::VkMat
+producer	include/blob.h	/^    int producer;$/;"	m	class:ncnn::Blob
+ptr	include/opencv.h	/^    const unsigned char* ptr(int y) const { return data + y * cols * c; }$/;"	f	struct:cv::Mat
+ptr	include/opencv.h	/^    unsigned char* ptr(int y) { return data + y * cols * c; }$/;"	f	struct:cv::Mat
+push_constants	include/command.h	/^        struct { VkPipelineLayout pipeline_layout; } push_constants;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon11
+qnxnto	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+query	include/command.h	/^        struct { uint32_t query; } write_timestamp;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon17
+query_count	include/command.h	/^    uint32_t query_count;$/;"	m	class:ncnn::VkCompute
+query_pool	include/command.h	/^    VkQueryPool query_pool;$/;"	m	class:ncnn::VkCompute
+queue_family_index	include/command.h	/^    uint32_t queue_family_index;$/;"	m	class:ncnn::Command
+queue_lock	include/gpu.h	/^    mutable Mutex queue_lock;$/;"	m	class:ncnn::VulkanDevice
+range	include/mat.h	/^inline Mat Mat::range(int x, int n)$/;"	f	class:ncnn::Mat
+range	include/mat.h	/^inline VkMat VkMat::range(int x, int n)$/;"	f	class:ncnn::VkMat
+range	include/mat.h	/^inline const Mat Mat::range(int x, int n) const$/;"	f	class:ncnn::Mat
+range	include/mat.h	/^inline const VkMat VkMat::range(int x, int n) const$/;"	f	class:ncnn::VkMat
+record_type	include/command.h	/^    struct record_type$/;"	s	class:ncnn::VkCompute
+record_type	include/command.h	/^    struct record_type$/;"	s	class:ncnn::VkTransfer
+refcount	include/allocator.h	/^    int refcount;$/;"	m	class:ncnn::VkBufferMemory
+refcount	include/mat.h	/^    int* refcount;$/;"	m	class:ncnn::Mat
+refcount	include/mat.h	/^    int* refcount;$/;"	m	class:ncnn::VkMat
+refcount	include/opencv.h	/^    int* refcount;$/;"	m	struct:cv::Mat
+regions	include/command.h	/^        std::vector<VkBufferCopy> regions;$/;"	m	struct:ncnn::VkCompute::record_type
+release	include/mat.h	/^inline void Mat::release()$/;"	f	class:ncnn::Mat
+release	include/mat.h	/^inline void VkMat::release()$/;"	f	class:ncnn::VkMat
+release	include/opencv.h	/^    void release()$/;"	f	struct:cv::Mat
+reshape	include/mat.h	/^inline Mat Mat::reshape(int _w, Allocator* _allocator) const$/;"	f	class:ncnn::Mat
+reshape	include/mat.h	/^inline Mat Mat::reshape(int _w, int _h, Allocator* _allocator) const$/;"	f	class:ncnn::Mat
+reshape	include/mat.h	/^inline Mat Mat::reshape(int _w, int _h, int _c, Allocator* _allocator) const$/;"	f	class:ncnn::Mat
+row	include/mat.h	/^inline T* Mat::row(int y)$/;"	f	class:ncnn::Mat
+row	include/mat.h	/^inline const T* Mat::row(int y) const$/;"	f	class:ncnn::Mat
+row	include/mat.h	/^inline const float* Mat::row(int y) const$/;"	f	class:ncnn::Mat
+row	include/mat.h	/^inline float* Mat::row(int y)$/;"	f	class:ncnn::Mat
+row_range	include/mat.h	/^inline Mat Mat::row_range(int y, int rows)$/;"	f	class:ncnn::Mat
+row_range	include/mat.h	/^inline VkMat VkMat::row_range(int y, int rows)$/;"	f	class:ncnn::VkMat
+row_range	include/mat.h	/^inline const Mat Mat::row_range(int y, int rows) const$/;"	f	class:ncnn::Mat
+row_range	include/mat.h	/^inline const VkMat VkMat::row_range(int y, int rows) const$/;"	f	class:ncnn::VkMat
+rows	include/opencv.h	/^    int rows;$/;"	m	struct:cv::Mat
+save_model	model.py	/^def save_model(path, epoch, model, optimizer=None):$/;"	f
+scale_h	cpp/ncnn_centernet.h	/^	float scale_h;$/;"	m	class:Centerobj
+scale_w	cpp/ncnn_centernet.h	/^	float scale_w;$/;"	m	class:Centerobj
+score	cpp/ncnn_centernet.h	/^	float score;$/;"	m	struct:ObjInfo
+shader_modules	include/gpu.h	/^    std::vector<VkShaderModule> shader_modules;$/;"	m	class:ncnn::VulkanDevice
+size	include/command.h	/^        size_t size;$/;"	m	struct:ncnn::VkTransfer::record_type
+size	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_compute_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon15
+size	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } compute_transfer_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon14
+size	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_compute_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon13
+size	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_transfer_barrier;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon16
+size	include/command.h	/^        struct { VkBuffer src; size_t src_offset; VkBuffer dst; size_t dst_offset; size_t size; } copy;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon7
+size_compare_ratio	include/allocator.h	/^    unsigned int size_compare_ratio;\/\/ 0~256$/;"	m	class:ncnn::PoolAllocator
+size_compare_ratio	include/allocator.h	/^    unsigned int size_compare_ratio;\/\/ 0~256$/;"	m	class:ncnn::UnlockedPoolAllocator
+size_compare_ratio	include/allocator.h	/^    unsigned int size_compare_ratio;\/\/ 0~256$/;"	m	class:ncnn::VkUnlockedStagingBufferAllocator
+src	include/command.h	/^        struct { VkBuffer src; VkBuffer dst; } copy_regions;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon8
+src	include/command.h	/^        struct { VkBuffer src; size_t src_offset; VkBuffer dst; size_t dst_offset; size_t size; } copy;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon7
+src_offset	include/command.h	/^        struct { VkBuffer src; size_t src_offset; VkBuffer dst; size_t dst_offset; size_t size; } copy;$/;"	m	struct:ncnn::VkCompute::record_type::__anon6::__anon7
+srwlock	include/platform.h	/^    SRWLOCK srwlock;$/;"	m	class:ncnn::Mutex
+staging_allocator	include/mat.h	/^    VkAllocator* staging_allocator;$/;"	m	class:ncnn::VkMat
+staging_buffer	include/mat.h	/^inline VkBuffer VkMat::staging_buffer() const$/;"	f	class:ncnn::VkMat
+staging_buffer_allocator	include/gpu.h	/^    VkAllocator* staging_buffer_allocator;$/;"	m	class:ncnn::VulkanDevice
+staging_buffer_offset	include/mat.h	/^inline size_t VkMat::staging_buffer_offset() const$/;"	f	class:ncnn::VkMat
+staging_data	include/command.h	/^    VkBufferMemory* staging_data;$/;"	m	class:ncnn::VkTransfer
+staging_data	include/mat.h	/^    VkBufferMemory* staging_data;$/;"	m	class:ncnn::VkMat
+staging_refcount	include/mat.h	/^    int* staging_refcount;$/;"	m	class:ncnn::VkMat
+staging_vkallocator	include/command.h	/^    VkAllocator* staging_vkallocator;$/;"	m	class:ncnn::VkTransfer
+staging_vkallocator	include/option.h	/^    VkAllocator* staging_vkallocator;$/;"	m	class:ncnn::Option
+state	include/allocator.h	/^    mutable int state;$/;"	m	class:ncnn::VkBufferMemory
+support_VK_KHR_16bit_storage	include/gpu.h	/^    int support_VK_KHR_16bit_storage;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_8bit_storage	include/gpu.h	/^    int support_VK_KHR_8bit_storage;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_bind_memory2	include/gpu.h	/^    int support_VK_KHR_bind_memory2;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_dedicated_allocation	include/gpu.h	/^    int support_VK_KHR_dedicated_allocation;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_descriptor_update_template	include/gpu.h	/^    int support_VK_KHR_descriptor_update_template;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_get_memory_requirements2	include/gpu.h	/^    int support_VK_KHR_get_memory_requirements2;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_push_descriptor	include/gpu.h	/^    int support_VK_KHR_push_descriptor;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_shader_float16_int8	include/gpu.h	/^    int support_VK_KHR_shader_float16_int8;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_shader_float_controls	include/gpu.h	/^    int support_VK_KHR_shader_float_controls;$/;"	m	class:ncnn::GpuInfo
+support_VK_KHR_storage_buffer_storage_class	include/gpu.h	/^    int support_VK_KHR_storage_buffer_storage_class;$/;"	m	class:ncnn::GpuInfo
+support_fp16_arithmetic	include/gpu.h	/^    bool support_fp16_arithmetic;$/;"	m	class:ncnn::GpuInfo
+support_fp16_packed	include/gpu.h	/^    bool support_fp16_packed;$/;"	m	class:ncnn::GpuInfo
+support_fp16_storage	include/gpu.h	/^    bool support_fp16_storage;$/;"	m	class:ncnn::GpuInfo
+support_inplace	include/layer.h	/^    bool support_inplace;$/;"	m	class:ncnn::Layer
+support_int8_arithmetic	include/gpu.h	/^    bool support_int8_arithmetic;$/;"	m	class:ncnn::GpuInfo
+support_int8_storage	include/gpu.h	/^    bool support_int8_storage;$/;"	m	class:ncnn::GpuInfo
+support_vulkan	include/layer.h	/^    bool support_vulkan;$/;"	m	class:ncnn::Layer
+timestamp_period	include/gpu.h	/^    float timestamp_period;$/;"	m	class:ncnn::GpuInfo
+tops	include/layer.h	/^    std::vector<int> tops;$/;"	m	class:ncnn::Layer
+total	include/mat.h	/^inline size_t Mat::total() const$/;"	f	class:ncnn::Mat
+total	include/mat.h	/^inline size_t VkMat::total() const$/;"	f	class:ncnn::VkMat
+total	include/opencv.h	/^    size_t total() const { return cols * rows * c; }$/;"	f	struct:cv::Mat
+transfer_compute_barrier	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_compute_barrier;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon13
+transfer_queue_count	include/gpu.h	/^    uint32_t transfer_queue_count;$/;"	m	class:ncnn::GpuInfo
+transfer_queue_family_index	include/gpu.h	/^    uint32_t transfer_queue_family_index;$/;"	m	class:ncnn::GpuInfo
+transfer_queues	include/gpu.h	/^    mutable std::vector<VkQueue> transfer_queues;$/;"	m	class:ncnn::VulkanDevice
+transfer_transfer_barrier	include/command.h	/^        struct { VkBuffer buffer; size_t offset; size_t size; } transfer_transfer_barrier;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon16
+type	include/command.h	/^        int type;$/;"	m	struct:ncnn::VkCompute::record_type
+type	include/gpu.h	/^    int type;$/;"	m	class:ncnn::GpuInfo
+type	include/layer.h	/^    std::string type;$/;"	m	class:ncnn::Layer
+typeindex	include/layer.h	/^    int typeindex;$/;"	m	class:ncnn::Layer
+u32	include/mat.h	/^union vk_specialization_type { int i; float f; uint32_t u32; };$/;"	m	union:ncnn::vk_specialization_type
+unified_memory_index	include/gpu.h	/^    uint32_t unified_memory_index;$/;"	m	class:ncnn::GpuInfo
+unlock	include/platform.h	/^    void unlock() { ReleaseSRWLockExclusive(&srwlock); }$/;"	f	class:ncnn::Mutex
+upload	include/mat.h	/^inline void VkMat::upload(const Mat& m)$/;"	f	class:ncnn::VkMat
+use_fp16_arithmetic	include/option.h	/^    bool use_fp16_arithmetic;$/;"	m	class:ncnn::Option
+use_fp16_packed	include/option.h	/^    bool use_fp16_packed;$/;"	m	class:ncnn::Option
+use_fp16_storage	include/option.h	/^    bool use_fp16_storage;$/;"	m	class:ncnn::Option
+use_int8_arithmetic	include/option.h	/^    bool use_int8_arithmetic;$/;"	m	class:ncnn::Option
+use_int8_inference	include/option.h	/^    bool use_int8_inference;$/;"	m	class:ncnn::Option
+use_int8_storage	include/option.h	/^    bool use_int8_storage;$/;"	m	class:ncnn::Option
+use_sgemm_convolution	include/option.h	/^    bool use_sgemm_convolution;$/;"	m	class:ncnn::Option
+use_vulkan_compute	include/option.h	/^    bool use_vulkan_compute;$/;"	m	class:ncnn::Option
+use_winograd_convolution	include/option.h	/^    bool use_winograd_convolution;$/;"	m	class:ncnn::Option
+v	include/paramdict.h	/^        Mat v;$/;"	m	struct:ncnn::ParamDict::__anon4
+vendor_id	include/gpu.h	/^    uint32_t vendor_id;$/;"	m	class:ncnn::GpuInfo
+vkCmdPushDescriptorSetKHR	include/gpu.h	/^    PFN_vkCmdPushDescriptorSetKHR vkCmdPushDescriptorSetKHR;$/;"	m	class:ncnn::VulkanDevice
+vkCmdPushDescriptorSetWithTemplateKHR	include/gpu.h	/^    PFN_vkCmdPushDescriptorSetWithTemplateKHR vkCmdPushDescriptorSetWithTemplateKHR;$/;"	m	class:ncnn::VulkanDevice
+vkCreateDescriptorUpdateTemplateKHR	include/gpu.h	/^    PFN_vkCreateDescriptorUpdateTemplateKHR vkCreateDescriptorUpdateTemplateKHR;$/;"	m	class:ncnn::VulkanDevice
+vkDestroyDescriptorUpdateTemplateKHR	include/gpu.h	/^    PFN_vkDestroyDescriptorUpdateTemplateKHR vkDestroyDescriptorUpdateTemplateKHR;$/;"	m	class:ncnn::VulkanDevice
+vkGetBufferMemoryRequirements2KHR	include/gpu.h	/^    PFN_vkGetBufferMemoryRequirements2KHR vkGetBufferMemoryRequirements2KHR;$/;"	m	class:ncnn::VulkanDevice
+vkGetImageMemoryRequirements2KHR	include/gpu.h	/^    PFN_vkGetImageMemoryRequirements2KHR vkGetImageMemoryRequirements2KHR;$/;"	m	class:ncnn::VulkanDevice
+vkGetImageSparseMemoryRequirements2KHR	include/gpu.h	/^    PFN_vkGetImageSparseMemoryRequirements2KHR vkGetImageSparseMemoryRequirements2KHR;$/;"	m	class:ncnn::VulkanDevice
+vkUpdateDescriptorSetWithTemplateKHR	include/gpu.h	/^    PFN_vkUpdateDescriptorSetWithTemplateKHR vkUpdateDescriptorSetWithTemplateKHR;$/;"	m	class:ncnn::VulkanDevice
+vk_constant_type	include/mat.h	/^union vk_constant_type { int i; float f; };$/;"	u	namespace:ncnn
+vk_specialization_type	include/mat.h	/^union vk_specialization_type { int i; float f; uint32_t u32; };$/;"	u	namespace:ncnn
+vkdev	include/allocator.h	/^    const VulkanDevice* vkdev;$/;"	m	class:ncnn::VkAllocator
+vkdev	include/command.h	/^    const VulkanDevice* vkdev;$/;"	m	class:ncnn::Command
+vkdev	include/layer.h	/^    const VulkanDevice* vkdev;$/;"	m	class:ncnn::Layer
+vkdev	include/net.h	/^    const VulkanDevice* vkdev;$/;"	m	class:ncnn::Net
+vkdev	include/pipeline.h	/^    const VulkanDevice* vkdev;$/;"	m	class:ncnn::Pipeline
+vkdevice	include/gpu.h	/^    VkDevice vkdevice() const { return device; }$/;"	f	class:ncnn::VulkanDevice
+vkmat	include/command.h	/^        VkMat vkmat;$/;"	m	struct:ncnn::VkTransfer::record_type
+volatile	build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+w	include/mat.h	/^    int w;$/;"	m	class:ncnn::Mat
+w	include/mat.h	/^    int w;$/;"	m	class:ncnn::VkMat
+weight_staging_vkallocator	include/net.h	/^    VkAllocator* weight_staging_vkallocator;$/;"	m	class:ncnn::Net
+weight_vkallocator	include/command.h	/^    VkAllocator* weight_vkallocator;$/;"	m	class:ncnn::VkTransfer
+weight_vkallocator	include/net.h	/^    VkAllocator* weight_vkallocator;$/;"	m	class:ncnn::Net
+weights	include/modelbin.h	/^    mutable const Mat* weights;$/;"	m	class:ncnn::ModelBinFromMatArray
+width	include/opencv.h	/^    _Tp width;$/;"	m	struct:cv::Rect_
+width	include/opencv.h	/^    int width;$/;"	m	struct:cv::Size
+workspace_allocator	include/option.h	/^    Allocator* workspace_allocator;$/;"	m	class:ncnn::Option
+workspace_vkallocator	include/option.h	/^    VkAllocator* workspace_vkallocator;$/;"	m	class:ncnn::Option
+write_timestamp	include/command.h	/^        struct { uint32_t query; } write_timestamp;$/;"	m	union:ncnn::VkCompute::record_type::__anon6	typeref:struct:ncnn::VkCompute::record_type::__anon6::__anon17
+x	include/opencv.h	/^    _Tp x;$/;"	m	struct:cv::Point_
+x	include/opencv.h	/^    _Tp x;$/;"	m	struct:cv::Rect_
+x1	cpp/ncnn_centernet.h	/^	float x1;$/;"	m	struct:ObjInfo
+x2	cpp/ncnn_centernet.h	/^	float x2;$/;"	m	struct:ObjInfo
+y	include/opencv.h	/^    _Tp y;$/;"	m	struct:cv::Point_
+y	include/opencv.h	/^    _Tp y;$/;"	m	struct:cv::Rect_
+y1	cpp/ncnn_centernet.h	/^	float y1;$/;"	m	struct:ObjInfo
+y2	cpp/ncnn_centernet.h	/^	float y2;$/;"	m	struct:ObjInfo
+~Centerobj	cpp/ncnn_centernet.cpp	/^Centerobj::~Centerobj()$/;"	f	class:Centerobj
+~Mat	include/mat.h	/^inline Mat::~Mat()$/;"	f	class:ncnn::Mat
+~Mat	include/opencv.h	/^    ~Mat()$/;"	f	struct:cv::Mat
+~Mutex	include/platform.h	/^    ~Mutex() {}$/;"	f	class:ncnn::Mutex
+~MutexLockGuard	include/platform.h	/^    ~MutexLockGuard() { mutex.unlock(); }$/;"	f	class:ncnn::MutexLockGuard
+~VkAllocator	include/allocator.h	/^    virtual ~VkAllocator() { clear(); }$/;"	f	class:ncnn::VkAllocator
+~VkMat	include/mat.h	/^inline VkMat::~VkMat()$/;"	f	class:ncnn::VkMat

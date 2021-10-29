@@ -28,12 +28,12 @@ public:
 
 	//You can change the shape of input image by setting params :resized_w and resized_h
 	int detect(ncnn::Mat &inblob, std::vector<ObjInfo>&objs, int resized_w,int resized_h,
-		float scoreThresh = 0.2, float nmsThresh = 0.45);
+		float scoreThresh = 0.2, float nmsThresh = 0.35);
 
 private:
 	void dynamicScale(float in_w, float in_h);
 	void genIds(float * heatmap, int h, int w,int c, float thresh, std::vector<float> &ids);
-	void nms(std::vector<ObjInfo>& input, std::vector<ObjInfo>& output, float nmsthreshold = 0.3,int type=NMS_MIN);
+	void nms(std::vector<ObjInfo>& input, std::vector<ObjInfo>& output, float nmsthreshold = 0.3, int type=NMS_MIN);
 	void decode(ncnn::Mat & heatmap  , ncnn::Mat &scale, ncnn::Mat &offset,
 		std::vector<ObjInfo>&objs, float scoreThresh, float nmsThresh);
 private:
